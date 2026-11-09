@@ -1,0 +1,6 @@
+{
+  "Name": "EA-Regulatory-Appeals-Download",
+  "ProjectType": "Process",
+  "Description": "Regulatory Appeals Download",
+  "MainFile": "Main.xaml"
+}
