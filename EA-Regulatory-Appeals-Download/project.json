@@ -45,7 +45,9 @@
       "privateWorkflows": []
     },
     "processOptions": {
-      "ignoredFiles": []
+      "ignoredFiles": [
+        "Test.xaml"
+      ]
     },
     "fileInfoCollection": [],
     "saveToCloud": false

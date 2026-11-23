@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge BI launch pad",
+  "Type": "App",
+  "Id": "luvsdyzi2EaL6_RAkWXFMg",
+  "Reference": "u70FNKxx7EOHPBwkfez66Q/luvsdyzi2EaL6_RAkWXFMg",
+  "Created": "2026-11-20T12:24:52.1534156Z",
+  "Updated": "2026-11-20T12:24:52.1534156Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
